@@ -1,0 +1,15 @@
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\bin\Debug\net7.0\Exo092309.exe
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\bin\Debug\net7.0\Exo092309.deps.json
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\bin\Debug\net7.0\Exo092309.runtimeconfig.json
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\bin\Debug\net7.0\Exo092309.dll
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\bin\Debug\net7.0\Exo092309.pdb
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.csproj.AssemblyReference.cache
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.AssemblyInfoInputs.cache
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.AssemblyInfo.cs
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.csproj.CoreCompileInputs.cache
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.dll
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\refint\Exo092309.dll
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.pdb
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\Exo092309.genruntimeconfig.cache
+D:\Dev\Test C#\Exo 090923\Exo092309\Exo092309\obj\Debug\net7.0\ref\Exo092309.dll

@@ -1,0 +1,19 @@
+Civil: 
+> Walk
+> Can fight
+>
+
+Military:
+> Run boy , run!!!
+> Need a gun, gimme a gun!
+> Can't heal 
+
+King: 
+> Can't move 
+> Can't fight even if someone want to kill him
+> Can't even heal himself
+> 
+
+
+
+> When u create a class, it should be singular not plural 
